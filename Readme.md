@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Джамиль Ахунов](https://up.htmlacademy.ru/javascript/32/user/217896).
-* Наставник: `Неизвестно`.
+* Студент: [PropellerBeanie](https://up.htmlacademy.ru/javascript/32/user/217896).
+* Наставник: `Keksobot`.
 
 ---
 
